@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051218072946",
+    "firebase_url": "https://quantified-services-default-rtdb.firebaseio.com",
+    "project_id": "quantified-services",
+    "storage_bucket": "quantified-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051218072946:android:1a52b54112e95431cd39eb",
+        "android_client_info": {
+          "package_name": "com.example.quantified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051218072946-ovtbukoaalre3k2rn202jkpug3q1n4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsbsNSIiuWgey9O041YsyHVj52AJOOug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051218072946-ovtbukoaalre3k2rn202jkpug3q1n4hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051218072946-p8rr21nh5k1om4sp6kkagjnqbddifvgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quantified"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
